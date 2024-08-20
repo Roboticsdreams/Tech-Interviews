@@ -1,2 +1,2 @@
-[Tech-Interviews](../README.md)->[Workouts](Workouts.md)
+[Tech-Interviews](../README.md) -> [Workouts](Workouts.md)
 ---

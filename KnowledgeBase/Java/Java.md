@@ -1,2 +1,2 @@
-[Tech-Interviews](../../README.md)->[KnowledgeBase](../KnowledgeBase.md)->[Java](../Java/Java.md)
+[Tech-Interviews](../../README.md) -> [KnowledgeBase](../KnowledgeBase.md) -> [Java](../Java/Java.md)
 ---

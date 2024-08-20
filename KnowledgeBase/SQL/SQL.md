@@ -1,2 +1,2 @@
-[Tech-Interviews](../../README.md)->[KnowledgeBase](../KnowledgeBase.md)->[SQL](../SQL/SQL.md)
+[Tech-Interviews](../../README.md) -> [KnowledgeBase](../KnowledgeBase.md) -> [SQL](../SQL/SQL.md)
 ---
