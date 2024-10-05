@@ -1,8 +1,8 @@
 # Tech-Interviews
 
-[Technical Interviews](README.md)
-
 ![alt text](resources/home.jpg)
+
+[Technical Interviews](README.md)
 
 - [Experiences](Experiences/Experiences.md)
 - [KnowledgeBase](KnowledgeBase/KnowledgeBase.md)
