@@ -16,7 +16,7 @@
 10. [What are the intermediate and terminal operations in stream api?](#what-are-the-intermediate-and-terminal-operations-in-stream-api)
 
 # Scenario based Question
-1. [For example multi threads reading from cache and one thread writing into cache? how to handle data consistancy?](#scenario-based-question---for-example-multi-threads-reading-from-cache-and-one-thread-writing-into-cache-how-to-handle-data-consistancy)
+1. [For example multi threads reading from cache and one thread writing into cache? how to handle data consistancy?](#for-example-multi-threads-reading-from-cache-and-one-thread-writing-into-cache-how-to-handle-data-consistancy)
 
 # Coding Question
 1. [Write a java 8 program to print first non repeated character in a string?](#write-a-java-8-program-to-print-first-non-repeated-character-in-a-string)
