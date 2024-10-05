@@ -1,6 +1,6 @@
 # Top 9 DSA Patterns
 
-[Tech-Interviews](../../../README.md) -> [Workouts](../../Workouts/Workouts.md) -> [Top 9 DSA Patterns](../Top%209%20DSA%20Patterns/Top9DSAPatterns.md)
+[Tech-Interviews](../../README.md) -> [Workouts](../../Workouts/Workouts.md) -> [Top 9 DSA Patterns](../Top%209%20DSA%20Patterns/Top9DSAPatterns.md)
 
 If you want to become good at cracking coding interviews, then learn these patterns:
 
