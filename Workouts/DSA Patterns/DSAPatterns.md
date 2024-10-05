@@ -1,6 +1,6 @@
 # DSA Patterns
 
-[Tech-Interviews](../../../README.md) -> [References](../../References.md) -> [Online Tutorials](../../Online%20Tutorials/OnlineTutorials.md) -> [DSA Patterns](../DSA%20Patterns/DSAPatterns.md)
+[Tech-Interviews](../../../README.md) -> [References](../../References.md) -> [Workouts](../../Workouts/Workouts.md) -> [DSA Patterns](../DSA%20Patterns/DSAPatterns.md)
 
 1. Graphs (DFS/BFS)
 
